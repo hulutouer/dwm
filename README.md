@@ -136,8 +136,8 @@ sudo pacman -S flameshot light alsa-utils
 |super + F1| 静音|
 |super + F2| 音量减小5%|
 |super + F3| 音量增加5%|
-|super + F5| 背光增加10%|
-|super + F6| 背光减少10%|
+|super + F5| 背光降低10%|
+|super + F6| 背光增加10%|
 
 > 如果不能控制背光请尝试:
 - `fn + 组合键`
