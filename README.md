@@ -5,7 +5,7 @@ date updated: 2022-10-28 07:07
 ---
 
 ## 预览
-
+![screenshot](https://github.com/hulutouer/dwm/blob/main/screenshot.png)
 
 ## `X server` 或者其他
 
