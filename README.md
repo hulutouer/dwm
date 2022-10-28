@@ -56,7 +56,7 @@ fi
 ## 下载此存储库
 
 ```bash
-git clone 
+git clone https://github.com/hulutouer/dwm.git 
 ```
 
 ## 字体
